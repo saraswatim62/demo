@@ -1,2 +1,3 @@
 # demo
-this is my first git repoaitorAY
+this is my first git repoaitoray
+author - Lipi
